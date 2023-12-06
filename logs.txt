@@ -1,0 +1,8 @@
+Product read from file and added!!
+Specific Product Viewed : Apple
+Product Details Viewed
+Specific Product Viewed : Apple
+Specific Product Viewed : Apple
+Individual Product Report is Updated
+Product Details Viewed
+General Report is Updated 
